@@ -1,6 +1,5 @@
 #!/bin/bash
 echo ""
-echo""
 clear
 echo""
 echo -e "\e[1;96m===================================================== > > >\e[m "
@@ -93,4 +92,3 @@ echo -e "\n${RED}[${WHITE}-${RED}]${GREEN} Initializing... ${GREEN}( ${CYAN}http
 
 
 echo
-
